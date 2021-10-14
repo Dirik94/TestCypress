@@ -1,8 +1,8 @@
 ID: 1
-Test environment: Firefox browser
+Test environment: Firefox 93 browser
 Entry requirements:
 - working build on address: "https://staging.paymi.com/"
-- installed Firefox browser
+- installed Firefox 93 browser
 - installed VS Code
 - installed Node.js
 - installed Cypress

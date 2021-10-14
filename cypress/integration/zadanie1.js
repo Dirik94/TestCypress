@@ -1,4 +1,4 @@
-describe("Zadanie1'", function(){
+describe("Zadanie1", function(){
     it("test_login_negative_1", function(){
         cy.visit('https://staging.paymi.com/')
         cy.url().should("include","https://staging.paymi.com/")
