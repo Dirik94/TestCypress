@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Dirik94/TestCypress1.git"
+    "url": "git+ssh://git@github.com/Dirik94/TestCypress.git"
   },
   "author": "Grzegorz Domanowski",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dirik94/TestCypress1/issues"
+    "url": "https://github.com/Dirik94/TestCypress/issues"
   },
-  "homepage": "https://github.com/Dirik94/TestCypress1#readme",
+  "homepage": "https://github.com/Dirik94/TestCypress#readme",
   "dependencies": {
     "cypress": "^8.6.0"
   }
