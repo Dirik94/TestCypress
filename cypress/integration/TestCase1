@@ -1,0 +1,21 @@
+ID: 1
+Test environment: Firefox browser
+Entry requirements:
+- working build on address: "https://staging.paymi.com/"
+- installed Firefox browser
+- installed VS Code
+- installed Node.js
+- installed Cypress
+
+Test scenario:
+- go to the website: "https://staging.paymi.com/"
+- enter the incorrect login
+- enter an incorrect password
+- push "Log In" button
+- verify if the message is visible: "Invalid email address or password."
+
+Expected results:
+- login denied
+
+Exit requirements:
+- user is not able to log in with incorrect credentials
