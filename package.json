@@ -1,0 +1,23 @@
+{
+  "name": "testcypress",
+  "version": "1.0.0",
+  "description": "Zadanie1",
+  "main": "index.js",
+  "scripts": {
+    "test": "1",
+    "cypress": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Dirik94/TestCypress1.git"
+  },
+  "author": "Grzegorz Domanowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dirik94/TestCypress1/issues"
+  },
+  "homepage": "https://github.com/Dirik94/TestCypress1#readme",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
